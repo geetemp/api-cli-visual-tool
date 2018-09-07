@@ -1,5 +1,8 @@
 ### api-cli visual tool
 
+#### 效果图
+![图片描述](https://github.com/geetemp/api-cli-visual-tool/blob/master/img/xiaoguotu.png)
+
 #### 概述
 
 此插件为 api-cli 工具的补充，可以在 chrome 的开发者工具中快速的查看到有更新的 api 接口，以及更新的内容，方便前端同学开发时快速定位问题，并提供快速 merge api 的服务。
